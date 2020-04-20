@@ -8,6 +8,7 @@
     width: 80%;
     overflow: scroll;
     padding-bottom: 60px;
+    -webkit-overflow-scrolling: touch;
 }
 
 .wrapper::-webkit-scrollbar {

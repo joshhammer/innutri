@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea211362bf9b48e210f2fa3c1c919b64",
+    "revision": "ae899b6c650c03dd81fca066d7a0dae4",
     "url": "/innutri/index.html"
   },
   {
-    "revision": "bcfdbab4d179dacee46e",
-    "url": "/innutri/static/css/main.99b49b49.chunk.css"
+    "revision": "62ea13f2eb66c74c0857",
+    "url": "/innutri/static/css/main.314c6226.chunk.css"
   },
   {
     "revision": "9ed4616bcdb6f599fbba",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/innutri/static/js/2.e6dad767.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcfdbab4d179dacee46e",
-    "url": "/innutri/static/js/main.1ac8c535.chunk.js"
+    "revision": "62ea13f2eb66c74c0857",
+    "url": "/innutri/static/js/main.02e73828.chunk.js"
   },
   {
     "revision": "4cbdc827f980d48f57fe",

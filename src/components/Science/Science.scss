@@ -1,0 +1,95 @@
+.science {
+    &-wrapper {
+        width: 100%;
+        display: flex;
+    }
+
+    &-image-container {
+        width: 50%;
+        background-color: var(--gray-custom);
+    }
+    &-list-container {
+        width: 50%;
+        background-color: var(--pink-custom);
+        position: relative;
+        padding: 60px 30px;
+        & h2 {
+            text-transform: uppercase;
+            color: var(--white-custom);
+            font-family: 'TTCommons-Light', Helvetica, sans-serif;
+            font-size: 24px;
+            letter-spacing: 1px;
+            margin: 0 0 50px 50px;
+        }
+        & ul {
+            list-style: none;
+            width: 80%;
+            margin-bottom: 50px;
+        }
+        & li {
+            font-family: 'TTCommons-Medium', Helvetica, sans-serif;
+            font-size: 22px;
+            background: url(../../assets/svg/arrow_Forward.svg) no-repeat left top;
+            color: var(--white-custom);
+            padding-left: 50px;
+            margin-bottom: 40px;
+        }
+    }
+}
+
+@media screen and (max-width: 1012px) {
+    .science {
+        &-wrapper {
+            flex-direction: column;
+        }
+
+        &-image-container {
+            width: 100%;
+            height: 550px;
+        }
+        &-list-container {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            & h2 {
+                font-size: 22px;
+                margin: 0 0 50px 0px;
+            }
+            & ul {
+                width: 75%;
+                margin-bottom: 25px;
+            }
+            & li {
+                font-size: 18px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 520px) {
+    .science {
+
+        &-image-container {
+            // width: 100%;
+            // height: 550px;
+        }
+        &-list-container {
+            width: 100%;
+            display: block;
+            padding: 60px 10px 60px 50px;
+
+            & h2 {
+                font-size: 22px;
+                margin: 0 0 50px 50px;
+            }
+            & ul {
+                width: 75%;
+                margin-bottom: 25px;
+            }
+            & li {
+                font-size: 18px;
+            }
+        }
+    }
+}

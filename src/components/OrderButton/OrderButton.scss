@@ -1,0 +1,27 @@
+.order-btn {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 15px;
+    border: 1px solid var(--green-custom);
+    border-radius: 25px;
+    background-color: var(--green-custom);
+    color: var(--white-custom);
+    font-size: 15px;
+    font-family: 'TTCommons-Medium', Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: box-shadow .25s;
+    &:hover {
+        background-color: var(--green-custom);
+        box-shadow: 2px 3px 5px rgb(71, 71, 71);
+        // color: var(--white-custom);
+        // transform: scale(1.05);
+        cursor: pointer;
+    }
+    &:active {
+        box-shadow: 0 0 0 black;
+    }
+    &:focus {
+        outline: none;
+    }
+}

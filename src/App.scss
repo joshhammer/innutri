@@ -1,0 +1,33 @@
+.App {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    position: relative;
+}
+.wrapper {
+    width: 80%;
+    overflow: scroll;
+    padding-bottom: 60px;
+}
+
+.wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+@media screen and (max-width: 1400px) {
+    .wrapper {
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .wrapper {
+        width: 100vw;
+    }
+}
+
+@media screen and (max-width: 520px) {
+
+}
+
+

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/innutri/static/css/main.314c6226.chunk.css",
+    "main.css": "/innutri/static/css/main.f78673ec.chunk.css",
     "main.js": "/innutri/static/js/main.02e73828.chunk.js",
     "main.js.map": "/innutri/static/js/main.02e73828.chunk.js.map",
     "runtime-main.js": "/innutri/static/js/runtime-main.dce42d39.js",
@@ -8,9 +8,9 @@
     "static/js/2.e6dad767.chunk.js": "/innutri/static/js/2.e6dad767.chunk.js",
     "static/js/2.e6dad767.chunk.js.map": "/innutri/static/js/2.e6dad767.chunk.js.map",
     "index.html": "/innutri/index.html",
-    "precache-manifest.912945097b70ffb34add5ab094cc188c.js": "/innutri/precache-manifest.912945097b70ffb34add5ab094cc188c.js",
+    "precache-manifest.d67c4062c4b93d51fd88e940a6ac31cd.js": "/innutri/precache-manifest.d67c4062c4b93d51fd88e940a6ac31cd.js",
     "service-worker.js": "/innutri/service-worker.js",
-    "static/css/main.314c6226.chunk.css.map": "/innutri/static/css/main.314c6226.chunk.css.map",
+    "static/css/main.f78673ec.chunk.css.map": "/innutri/static/css/main.f78673ec.chunk.css.map",
     "static/js/2.e6dad767.chunk.js.LICENSE.txt": "/innutri/static/js/2.e6dad767.chunk.js.LICENSE.txt",
     "static/media/00_innutri_logo_rgb.svg": "/innutri/static/media/00_innutri_logo_rgb.31d39ecb.svg",
     "static/media/01_ethisch_rot.svg": "/innutri/static/media/01_ethisch_rot.6bdf6015.svg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.dce42d39.js",
     "static/js/2.e6dad767.chunk.js",
-    "static/css/main.314c6226.chunk.css",
+    "static/css/main.f78673ec.chunk.css",
     "static/js/main.02e73828.chunk.js"
   ]
 }

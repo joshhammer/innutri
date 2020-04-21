@@ -1,5 +1,5 @@
 footer {
-    padding: 60px 0 40px 0;
+    padding-top: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -71,9 +71,6 @@ footer {
 }
 
 @media screen and (max-width: 1012px) {
-    footer {
-        padding-bottom: 0;
-    }
     .footer {
         &-container {
             flex-direction: column;

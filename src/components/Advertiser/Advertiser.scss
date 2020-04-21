@@ -2,19 +2,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px 0;
-    height: 650px;
+    justify-content: flex-end;
+    padding: 40px 0 60px 0;
+    height: 700px;
     width: 100%;
-    background-image: var(--myGradient);
-}
-
-@keyframes blink {
-    to {border-right: 5px solid var(--pink-custom); border-bottom: 5px solid var(--pink-custom);}
-}
-
-.innutri-desktop-img {
-    width: 800px;
-    margin-bottom: -50px;
+    background-image: url('../../assets/png/Innutri_Desktop@2x.png'), var(--myGradient);
+    background-position: center;
+    background-size: 65%, cover;
+    background-repeat: no-repeat;
 }
 
 
@@ -23,23 +18,35 @@
         height: 650px;
         
     }
-    .innutri-desktop-img {
-        max-width: 90%;
-        margin-bottom: -50px;
-    }
+
 }
 
 @media screen and (max-width: 1012px) {
+    .advertiser-container {
+        background-size: 70%, cover;
+    }
+}
 
+@media screen and (max-width: 900px) {
+    .advertiser-container {
+        background-size: 80%, cover;
+    }
 }
 
 @media screen and (max-width: 520px) {
     .advertiser-container {
-        height: 350px;
-        
+        height: 720px;
+        // padding: 40px 0 60px 0;
+        padding: 0;
+        padding-bottom: 60px;
+        background-image: url('../../assets/png/Innutri_Mobile@2x.png'), var(--myGradient);
+        background-size: 80%, cover;
+        background-position: 50% 25%, center;
     }
-    .innutri-desktop-img {
-        max-width: 90%;
-        margin-bottom: 0px;
+}
+
+@media screen and (max-width: 375px) {
+    .advertiser-container {
+        height: 650px;
     }
 }

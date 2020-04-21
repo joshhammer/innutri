@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/innutri/static/css/main.2962f277.chunk.css",
+    "main.css": "/innutri/static/css/main.ca0d8ec6.chunk.css",
     "main.js": "/innutri/static/js/main.15554e5f.chunk.js",
     "main.js.map": "/innutri/static/js/main.15554e5f.chunk.js.map",
     "runtime-main.js": "/innutri/static/js/runtime-main.dce42d39.js",
@@ -8,9 +8,9 @@
     "static/js/2.e6dad767.chunk.js": "/innutri/static/js/2.e6dad767.chunk.js",
     "static/js/2.e6dad767.chunk.js.map": "/innutri/static/js/2.e6dad767.chunk.js.map",
     "index.html": "/innutri/index.html",
-    "precache-manifest.e14297c79dd243f2343edf0d92b56707.js": "/innutri/precache-manifest.e14297c79dd243f2343edf0d92b56707.js",
+    "precache-manifest.f4ba337b0dff518818ef1c10b048c924.js": "/innutri/precache-manifest.f4ba337b0dff518818ef1c10b048c924.js",
     "service-worker.js": "/innutri/service-worker.js",
-    "static/css/main.2962f277.chunk.css.map": "/innutri/static/css/main.2962f277.chunk.css.map",
+    "static/css/main.ca0d8ec6.chunk.css.map": "/innutri/static/css/main.ca0d8ec6.chunk.css.map",
     "static/js/2.e6dad767.chunk.js.LICENSE.txt": "/innutri/static/js/2.e6dad767.chunk.js.LICENSE.txt",
     "static/media/00_innutri_logo_rgb.svg": "/innutri/static/media/00_innutri_logo_rgb.31d39ecb.svg",
     "static/media/01_ethisch_rot.svg": "/innutri/static/media/01_ethisch_rot.6bdf6015.svg",
@@ -27,13 +27,13 @@
     "static/media/Science.scss": "/innutri/static/media/arrow_Forward.a6730fb5.svg",
     "static/media/beeren_softgum.png": "/innutri/static/media/beeren_softgum.de797833.png",
     "static/media/bottle_gum.png": "/innutri/static/media/bottle_gum.e722e322.png",
-    "static/media/Intro.scss": "/innutri/static/media/image_03.24ab5128.jpg",
-    "static/media/Products.scss": "/innutri/static/media/image_02.c5ce484b.jpg"
+    "static/media/Intro.scss": "/innutri/static/media/image_03.8f444572.jpg",
+    "static/media/Products.scss": "/innutri/static/media/image_02.ae81789e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dce42d39.js",
     "static/js/2.e6dad767.chunk.js",
-    "static/css/main.2962f277.chunk.css",
+    "static/css/main.ca0d8ec6.chunk.css",
     "static/js/main.15554e5f.chunk.js"
   ]
 }

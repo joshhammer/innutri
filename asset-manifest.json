@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/innutri/static/css/main.f78673ec.chunk.css",
-    "main.js": "/innutri/static/js/main.02e73828.chunk.js",
-    "main.js.map": "/innutri/static/js/main.02e73828.chunk.js.map",
+    "main.css": "/innutri/static/css/main.d2d23983.chunk.css",
+    "main.js": "/innutri/static/js/main.f66a535b.chunk.js",
+    "main.js.map": "/innutri/static/js/main.f66a535b.chunk.js.map",
     "runtime-main.js": "/innutri/static/js/runtime-main.dce42d39.js",
     "runtime-main.js.map": "/innutri/static/js/runtime-main.dce42d39.js.map",
-    "static/js/2.e6dad767.chunk.js": "/innutri/static/js/2.e6dad767.chunk.js",
-    "static/js/2.e6dad767.chunk.js.map": "/innutri/static/js/2.e6dad767.chunk.js.map",
+    "static/js/2.1f2c8883.chunk.js": "/innutri/static/js/2.1f2c8883.chunk.js",
+    "static/js/2.1f2c8883.chunk.js.map": "/innutri/static/js/2.1f2c8883.chunk.js.map",
     "index.html": "/innutri/index.html",
-    "precache-manifest.d67c4062c4b93d51fd88e940a6ac31cd.js": "/innutri/precache-manifest.d67c4062c4b93d51fd88e940a6ac31cd.js",
+    "precache-manifest.78026f96b2f6e618375e7abc140613dc.js": "/innutri/precache-manifest.78026f96b2f6e618375e7abc140613dc.js",
     "service-worker.js": "/innutri/service-worker.js",
-    "static/css/main.f78673ec.chunk.css.map": "/innutri/static/css/main.f78673ec.chunk.css.map",
-    "static/js/2.e6dad767.chunk.js.LICENSE.txt": "/innutri/static/js/2.e6dad767.chunk.js.LICENSE.txt",
+    "static/css/main.d2d23983.chunk.css.map": "/innutri/static/css/main.d2d23983.chunk.css.map",
+    "static/js/2.1f2c8883.chunk.js.LICENSE.txt": "/innutri/static/js/2.1f2c8883.chunk.js.LICENSE.txt",
     "static/media/00_innutri_logo_rgb.svg": "/innutri/static/media/00_innutri_logo_rgb.31d39ecb.svg",
     "static/media/01_ethisch_rot.svg": "/innutri/static/media/01_ethisch_rot.6bdf6015.svg",
     "static/media/01_glutenfrei_rot.svg": "/innutri/static/media/01_glutenfrei_rot.362941d1.svg",
@@ -25,13 +25,14 @@
     "static/media/Produkte_Innutri_Desktop@2x.png": "/innutri/static/media/Produkte_Innutri_Desktop@2x.5911afd0.png",
     "static/media/Science.scss": "/innutri/static/media/arrow_Forward.a6730fb5.svg",
     "static/media/beeren_softgum.png": "/innutri/static/media/beeren_softgum.de797833.png",
+    "static/media/bottle_gum.png": "/innutri/static/media/bottle_gum.e722e322.png",
     "static/media/Intro.scss": "/innutri/static/media/image_03.24ab5128.jpg",
     "static/media/Products.scss": "/innutri/static/media/image_02.c5ce484b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dce42d39.js",
-    "static/js/2.e6dad767.chunk.js",
-    "static/css/main.f78673ec.chunk.css",
-    "static/js/main.02e73828.chunk.js"
+    "static/js/2.1f2c8883.chunk.js",
+    "static/css/main.d2d23983.chunk.css",
+    "static/js/main.f66a535b.chunk.js"
   ]
 }

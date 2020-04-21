@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "414a112ef9d156e0c982d959867bbb48",
+    "revision": "b348e8adb1ce823f3ef832b720bf7d2a",
     "url": "/innutri/index.html"
   },
   {
-    "revision": "7a06c8f1a15b821e2a3c",
-    "url": "/innutri/static/css/main.f78673ec.chunk.css"
+    "revision": "ededa0a13d4a1aae6e55",
+    "url": "/innutri/static/css/main.d2d23983.chunk.css"
   },
   {
-    "revision": "9ed4616bcdb6f599fbba",
-    "url": "/innutri/static/js/2.e6dad767.chunk.js"
+    "revision": "4964e892924fbf8fdc38",
+    "url": "/innutri/static/js/2.1f2c8883.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/innutri/static/js/2.e6dad767.chunk.js.LICENSE.txt"
+    "url": "/innutri/static/js/2.1f2c8883.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a06c8f1a15b821e2a3c",
-    "url": "/innutri/static/js/main.02e73828.chunk.js"
+    "revision": "ededa0a13d4a1aae6e55",
+    "url": "/innutri/static/js/main.f66a535b.chunk.js"
   },
   {
     "revision": "4cbdc827f980d48f57fe",
@@ -358,6 +358,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "de797833369b432e13025ee687fc0765",
     "url": "/innutri/static/media/beeren_softgum.de797833.png"
+  },
+  {
+    "revision": "e722e322c0ccdfe4617399dd11f5cbe6",
+    "url": "/innutri/static/media/bottle_gum.e722e322.png"
   },
   {
     "revision": "13e75e62156cbe85ba47ccfe8c8bd7ef",

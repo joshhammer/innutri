@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: flex-end;
     padding: 40px 0 60px 0;
-    height: 700px;
+    height: 800px;
     width: 100%;
     background-image: url('../../assets/png/Innutri_Desktop@2x.png'), var(--myGradient);
     background-position: center;
@@ -35,12 +35,20 @@
 
 @media screen and (max-width: 520px) {
     .advertiser-container {
-        height: 720px;
-        // padding: 40px 0 60px 0;
-        padding: 0;
-        padding-bottom: 60px;
+        height: 750px;
+        padding-bottom: 0 0 60px 0;
         background-image: url('../../assets/png/Innutri_Mobile@2x.png'), var(--myGradient);
-        background-size: 80%, cover;
+        background-size: 65%, cover;
+        background-position: 50% 25%, center;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .advertiser-container {
+        height: 750px;
+        padding-bottom: 0 0 60px 0;
+        background-image: url('../../assets/png/Innutri_Mobile@2x.png'), var(--myGradient);
+        background-size: 75%, cover;
         background-position: 50% 25%, center;
     }
 }
@@ -48,5 +56,6 @@
 @media screen and (max-width: 375px) {
     .advertiser-container {
         height: 650px;
+        background-size: 75%, cover;
     }
 }

@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20px;
+    padding: 20px 0;
     height: 650px;
     width: 100%;
     background-image: var(--myGradient);
@@ -17,13 +17,29 @@
     margin-bottom: -50px;
 }
 
+
 @media screen and (max-width: 1200px) {
     .advertiser-container {
-        height: 550px;
+        height: 650px;
         
     }
     .innutri-desktop-img {
-        width: 600px;
-        margin-bottom: 0px;
+        max-width: 90%;
+        margin-bottom: -50px;
+    }
 }
+
+@media screen and (max-width: 1012px) {
+
+}
+
+@media screen and (max-width: 520px) {
+    .advertiser-container {
+        height: 350px;
+        
+    }
+    .innutri-desktop-img {
+        max-width: 90%;
+        margin-bottom: 0px;
+    }
 }

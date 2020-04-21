@@ -1,12 +1,13 @@
 import React from 'react'
 import './Science.scss'
-import OrderButton from '../OrderButton/OrderButton'
+// import OrderButton from '../OrderButton/OrderButton'
+import bottleGum from '../../assets/png/bottle_gum.png'
 
 export default function Science() {
     return(
         <div className='science-wrapper'>
             <div className='science-image-container'>
-
+                <img src={bottleGum} alt="innutri dose mit einem USP"/>
             </div>
             <div className='science-list-container'>
                 <h2>Wissenschaft</h2>
@@ -22,7 +23,8 @@ export default function Science() {
                         und sorgt für starke Nägel und glänzende Haare.
                     </li>
                 </ul>
-                <OrderButton text={'Jetzt Softgums bestellen'}/>
+                {/* <OrderButton text={'Jetzt Softgums bestellen'}/> */}
+                <button className='science-order-btn'>Jetzt Softgums bestellen</button>
             </div>
         </div>
     )

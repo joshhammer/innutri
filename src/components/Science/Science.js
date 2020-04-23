@@ -1,6 +1,5 @@
 import React from 'react'
 import './Science.scss'
-// import OrderButton from '../OrderButton/OrderButton'
 import bottleGum from '../../assets/png/bottle_gum.png'
 
 export default function Science() {
@@ -23,7 +22,6 @@ export default function Science() {
                         und sorgt für starke Nägel und glänzende Haare.
                     </li>
                 </ul>
-                {/* <OrderButton text={'Jetzt Softgums bestellen'}/> */}
                 <button className='science-order-btn'>Jetzt Softgums bestellen</button>
             </div>
         </div>

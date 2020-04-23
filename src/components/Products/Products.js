@@ -7,7 +7,7 @@ export default function Products() {
     return (
         <div className='products-wrapper'>
             <div className='products-slogan-container'>
-                <div className='test'></div>
+                <div className='products-backdrop'></div>
                     <h1>Mehr Produkte <br />für ein gesundes <br /> Leben</h1>
             </div>
             <div className='products-image-container'>

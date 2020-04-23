@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c3b3506365ae0eec6ddd328b67ff8ad",
+    "revision": "9f840898218f9e57a61a841f80972f6b",
     "url": "/innutri/index.html"
   },
   {
-    "revision": "e1670b875e5054a90f25",
-    "url": "/innutri/static/css/main.ca9fbb49.chunk.css"
+    "revision": "62a7c4b463e6b62a7eb6",
+    "url": "/innutri/static/css/main.b3f5d5fa.chunk.css"
   },
   {
     "revision": "9ed4616bcdb6f599fbba",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/innutri/static/js/2.e6dad767.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1670b875e5054a90f25",
+    "revision": "62a7c4b463e6b62a7eb6",
     "url": "/innutri/static/js/main.89005b81.chunk.js"
   },
   {
@@ -368,15 +368,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/innutri/static/media/bottle_gum.e722e322.png"
   },
   {
-    "revision": "7da126eaff4eb71f0484f183aa552203",
-    "url": "/innutri/static/media/image_01.7da126ea.jpg"
+    "revision": "88c5389f4f26e230783eaf351564bf70",
+    "url": "/innutri/static/media/image_01.88c5389f.jpg"
   },
   {
-    "revision": "d3050d7ce8db24598d04bfec3371c5c2",
-    "url": "/innutri/static/media/image_02.d3050d7c.jpg"
+    "revision": "6c27a32af294d5a982b298b297bcf3b9",
+    "url": "/innutri/static/media/image_02.6c27a32a.jpg"
   },
   {
-    "revision": "5a43c4f94ad0ee7a8310733957e61fe6",
-    "url": "/innutri/static/media/image_03.5a43c4f9.jpg"
+    "revision": "7e70c73af83f63e48a9a84f327615319",
+    "url": "/innutri/static/media/image_03.7e70c73a.jpg"
   }
 ]);

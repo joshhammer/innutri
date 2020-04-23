@@ -45,6 +45,17 @@
 
 @media screen and (max-width: 1012px) {
     .usp {
+        &-box {
+            width: 27%;
+            & h3 {
+                font-size: 15px
+            } 
+        }
+    }
+}
+
+@media screen and (max-width: 1012px) {
+    .usp {
         &-container {
             flex-direction: column;
             width: 50%;
